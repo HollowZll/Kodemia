@@ -1,0 +1,36 @@
+h1 {
+    color: hotpink;
+}
+
+p {  
+    color: blueviolet;
+}
+
+span {
+    color: green;
+}
+
+#nombre {
+    color:red;
+}
+
+#apellido {
+    color: aqua;
+}
+
+.mybox {
+    background-color: aqua;
+    width: 90px;
+    height: 90px;
+}
+
+.next {
+    background-color: black;
+    height: 200px;
+}
+
+.cajita {
+    color: white;
+    box-sizing: border-box;
+    padding-left: 100px;
+}
