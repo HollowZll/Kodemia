@@ -1,0 +1,15 @@
+@import "vars";
+
+.main__title {
+    color: $primary-color;
+}
+
+.secondary__title {
+    color: hotpink;
+}
+
+
+.description__text {
+    font-family: $primary-font;
+    color: $secondary-color;
+}
